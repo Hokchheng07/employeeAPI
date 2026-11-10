@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: restApi
+server:
+  port: 4141
